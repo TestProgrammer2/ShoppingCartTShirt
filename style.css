@@ -55,7 +55,7 @@ a {
 }
 
 /* HEADER */
-header {
+/*header {
   width: 100%;
   height: 100px;
 
@@ -102,7 +102,7 @@ header nav ul li.home a {
 }
 header nav ul li.home a img {
   margin-right: 5px;
-}
+}*/
 /* HEADER -> SHOOPING BAG */
 .shopping-bag {
   padding: 10px 5px;
